@@ -34,7 +34,7 @@ This separation ensures that components are loosely coupled and can be easily te
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/repository-name.git
+   git clone https://github.com/sadnyani-4/flutter-app.git
    ```
 2. Open the project in Xcode.
 3. Build and run the application on a simulator or a physical device.
